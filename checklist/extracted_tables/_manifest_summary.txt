@@ -1,0 +1,54 @@
+table 01 ( 19items) domain=1. 클라우드 전환 사업 stage=1. 요구정의 단계 cat=가. 사업관리 및 품질보증
+table 02 ( 23items) domain=1. 클라우드 전환 사업 stage=1. 요구정의 단계 cat=나. 애플리케이션 및 상용 SW 전환
+table 03 ( 14items) domain=1. 클라우드 전환 사업 stage=1. 요구정의 단계 cat=다. 클라우드 플랫폼
+table 04 ( 17items) domain=1. 클라우드 전환 사업 stage=1. 요구정의 단계 cat=라. 데이터 복제 및 동기화
+table 05 ( 25items) domain=1. 클라우드 전환 사업 stage=1. 요구정의 단계 cat=마. 클라우드 인프라
+table 06 ( 15items) domain=1. 클라우드 전환 사업 stage=1. 요구정의 단계 cat=바. 네트워크 및 보안
+table 07 ( 24items) domain=1. 클라우드 전환 사업 stage=2. 설계 단계 cat=가. 사업관리 및 품질보증
+table 08 ( 22items) domain=1. 클라우드 전환 사업 stage=2. 설계 단계 cat=나. 애플리케이션 및 상용 SW 전환
+table 09 ( 28items) domain=1. 클라우드 전환 사업 stage=2. 설계 단계 cat=다. 클라우드 플랫폼
+table 10 ( 27items) domain=1. 클라우드 전환 사업 stage=2. 설계 단계 cat=라. 데이터 복제 및 동기화
+table 11 ( 19items) domain=1. 클라우드 전환 사업 stage=2. 설계 단계 cat=마. 클라우드 인프라
+table 12 ( 25items) domain=1. 클라우드 전환 사업 stage=2. 설계 단계 cat=바. 네트워크 및 보안
+table 13 ( 26items) domain=1. 클라우드 전환 사업 stage=3. 종료 단계 cat=가. 사업관리 및 품질보증
+table 14 ( 34items) domain=1. 클라우드 전환 사업 stage=3. 종료 단계 cat=나. 애플리케이션 및 상용 SW 전환
+table 15 ( 24items) domain=1. 클라우드 전환 사업 stage=3. 종료 단계 cat=다. 클라우드 플랫폼
+table 16 ( 25items) domain=1. 클라우드 전환 사업 stage=3. 종료 단계 cat=라. 데이터 복제 및 동기화
+table 17 ( 35items) domain=1. 클라우드 전환 사업 stage=3. 종료 단계 cat=마. 클라우드 인프라
+table 18 ( 29items) domain=1. 클라우드 전환 사업 stage=3. 종료 단계 cat=바. 네트워크 및 보안
+table 19 ( 20items) domain=2. 운영 및 유지관리 사업 stage=1. 요구정의 단계 cat=가. 사업관리 및 품질보증
+table 20 (  7items) domain=2. 운영 및 유지관리 사업 stage=1. 요구정의 단계 cat=나. 개발SW 운영
+table 21 ( 22items) domain=2. 운영 및 유지관리 사업 stage=1. 요구정의 단계 cat=다. 인프라 운영
+table 22 ( 15items) domain=2. 운영 및 유지관리 사업 stage=1. 요구정의 단계 cat=라. 개발SW 유지관리
+table 23 ( 15items) domain=2. 운영 및 유지관리 사업 stage=1. 요구정의 단계 cat=마. 상용SW 유지관리
+table 24 ( 15items) domain=2. 운영 및 유지관리 사업 stage=1. 요구정의 단계 cat=바. 인프라 유지관리
+table 25 ( 30items) domain=2. 운영 및 유지관리 사업 stage=2. 설계 단계 cat=가. 사업관리 및 품질보증
+table 26 (  9items) domain=2. 운영 및 유지관리 사업 stage=2. 설계 단계 cat=나. 개발SW 운영
+table 27 ( 22items) domain=2. 운영 및 유지관리 사업 stage=2. 설계 단계 cat=다. 인프라 운영
+table 28 (  5items) domain=2. 운영 및 유지관리 사업 stage=2. 설계 단계 cat=라. 개발SW 유지관리
+table 29 (  4items) domain=2. 운영 및 유지관리 사업 stage=2. 설계 단계 cat=마. 상용SW 유지관리
+table 30 (  5items) domain=2. 운영 및 유지관리 사업 stage=2. 설계 단계 cat=바. 인프라 유지관리
+table 31 ( 16items) domain=2. 운영 및 유지관리 사업 stage=3. 종료 단계 cat=가. 사업관리 및 품질보증
+table 32 (  9items) domain=2. 운영 및 유지관리 사업 stage=3. 종료 단계 cat=나. 개발SW 운영
+table 33 ( 24items) domain=2. 운영 및 유지관리 사업 stage=3. 종료 단계 cat=다. 인프라 운영
+table 34 ( 10items) domain=2. 운영 및 유지관리 사업 stage=3. 종료 단계 cat=라. 개발SW 유지관리
+table 35 ( 10items) domain=2. 운영 및 유지관리 사업 stage=3. 종료 단계 cat=마. 상용SW 유지관리
+table 36 ( 12items) domain=2. 운영 및 유지관리 사업 stage=3. 종료 단계 cat=바. 인프라 유지관리
+table 37 ( 15items) domain=3. 생성형 AI 사업 감리 stage=1. 요구정의 단계 cat=가. 사업관리 및 품질보증
+table 38 ( 22items) domain=3. 생성형 AI 사업 감리 stage=1. 요구정의 단계 cat=나. AI 모델 및 RAG
+table 39 ( 15items) domain=3. 생성형 AI 사업 감리 stage=1. 요구정의 단계 cat=다. Agentic AI
+table 40 ( 20items) domain=3. 생성형 AI 사업 감리 stage=1. 요구정의 단계 cat=라. 데이터 및 데이터파이프라인
+table 41 ( 19items) domain=3. 생성형 AI 사업 감리 stage=1. 요구정의 단계 cat=마. AI 보안 및 개인정보
+table 42 ( 26items) domain=3. 생성형 AI 사업 감리 stage=1. 요구정의 단계 cat=바. AI 인프라 도입
+table 43 ( 19items) domain=3. 생성형 AI 사업 감리 stage=2. 설계 단계 cat=가. 사업관리 및 품질보증
+table 44 ( 25items) domain=3. 생성형 AI 사업 감리 stage=2. 설계 단계 cat=나. AI 모델 및 RAG
+table 45 ( 25items) domain=3. 생성형 AI 사업 감리 stage=2. 설계 단계 cat=다. Agentic AI
+table 46 ( 26items) domain=3. 생성형 AI 사업 감리 stage=2. 설계 단계 cat=라. 데이터 및 데이터파이프라인
+table 47 ( 27items) domain=3. 생성형 AI 사업 감리 stage=2. 설계 단계 cat=마. AI 보안 및 개인정보
+table 48 ( 21items) domain=3. 생성형 AI 사업 감리 stage=2. 설계 단계 cat=바. AI 인프라
+table 49 ( 21items) domain=3. 생성형 AI 사업 감리 stage=3. 종료 단계 cat=가. 사업관리 및 품질보증
+table 50 ( 30items) domain=3. 생성형 AI 사업 감리 stage=3. 종료 단계 cat=나. AI 모델 및 RAG
+table 51 ( 26items) domain=3. 생성형 AI 사업 감리 stage=3. 종료 단계 cat=다. Agentic AI
+table 52 ( 27items) domain=3. 생성형 AI 사업 감리 stage=3. 종료 단계 cat=다. 데이터 및 데이터파이프라인
+table 53 ( 26items) domain=3. 생성형 AI 사업 감리 stage=3. 종료 단계 cat=라. AI 보안 및 개인정보
+table 54 ( 28items) domain=3. 생성형 AI 사업 감리 stage=3. 종료 단계 cat=마. 인프라 및 운영(LLMOps)
