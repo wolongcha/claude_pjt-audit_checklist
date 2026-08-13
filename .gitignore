@@ -28,3 +28,7 @@ desktop.ini
 # 로그
 *.log
 logs/
+
+# Word/Office 잠금 및 임시 파일
+~$*
+*.tmp
